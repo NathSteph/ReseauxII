@@ -8,8 +8,11 @@
 
 ## 📜 Description du Projet  
 Ce projet vise à implémenter un **protocole graphique** afin de stocker et d'envoyer des messages ou informations de manière sécurisée. 
-Les principales fonctionnalités incluent :  
-✅ **Encodage des messages** avec le **code de Hamming**. 
+
+Les principales fonctionnalités incluent :
+
+✅ **Encodage des messages** avec le **code de Hamming**.
+
 ✅ **Détection et correction automatique des erreurs** dans les données reçues. 
 
 Le projet est développé en **Python**.
